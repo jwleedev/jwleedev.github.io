@@ -1,2 +1,2 @@
-# jwleedev.github.io
-jwleedev의 홈페이지
+# taekyung.github.io
+taekyung의 홈페이지
