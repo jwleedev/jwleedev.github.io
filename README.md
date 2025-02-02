@@ -1,2 +1,2 @@
-# leejiwoodev.github.io
-leejiwoodev의 홈페이지
+# jwleedev.github.io
+jwleedev의 홈페이지
